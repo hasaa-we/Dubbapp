@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-openai
 requests
-python-multipart
+openai
 elevenlabs
+python-multipart
+
